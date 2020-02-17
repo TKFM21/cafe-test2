@@ -1,0 +1,15 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-cafe-test2-prod-100139-authRole",
+            "UnauthRoleArn": "arn:aws:iam::970806332927:role/amplify-cafe-test2-prod-100139-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::970806332927:role/amplify-cafe-test2-prod-100139-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-cafe-test2-prod-100139-deployment",
+            "UnauthRoleName": "amplify-cafe-test2-prod-100139-unauthRole",
+            "StackName": "amplify-cafe-test2-prod-100139",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:970806332927:stack/amplify-cafe-test2-prod-100139/0e5f7910-5121-11ea-b189-06219e647854",
+            "AmplifyAppId": "d2qhfx6trflnt1"
+        }
+    }
+}
